@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AlumniHall_array">
+    <item>room1</item>
+    <item>room2</item>
+    <item>room3</item>
+    </string-array>
+</resources>

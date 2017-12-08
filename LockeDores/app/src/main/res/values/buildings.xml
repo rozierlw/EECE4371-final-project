@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buildings_array">
+        <item>Alumni Hall</item>
+        <item>Black Cultural Center</item>
+        <item>Blair</item>
+        <item>Blakemore</item>
+    </string-array>
+</resources>

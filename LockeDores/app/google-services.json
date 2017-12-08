@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "712530793",
+    "firebase_url": "https://lockedores-21205.firebaseio.com",
+    "project_id": "lockedores-21205",
+    "storage_bucket": "lockedores-21205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712530793:android:df71963f8412e18d",
+        "android_client_info": {
+          "package_name": "com.example.rozierl.lockedores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712530793-f1de5upihtdrv267kdakdtjb3ch8neqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywsuz8xS4z8rQlL9Ja5NCoFnUH75hSAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
